@@ -7,7 +7,7 @@ From assignment description:
 
 *Your task is to implement a control system to compete on the Where’s Croc game. You will use hidden Markov models and associated algorithms to work out where Croc is given the sequence of observable variables given to you in the game. Read the runWheresCroc help documentation in the R package for more details. The hidden Markov model will permit you to model the dynamic probabilities of Croc being at different water holes. This is important, but not the only important matter in performing well in the game. You will have to think about what else is important and how you can perform as well as possible."*
 
-Package Author: Mike Aschcroft
+Package Author: Mike Ashcroft
 
 makeMoves.R author: Wilhelm Thunberg
 
